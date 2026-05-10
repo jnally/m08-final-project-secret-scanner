@@ -33,3 +33,7 @@ python secret-scanner.py target_directory/
 python secret-scanner.py -h
 python secret-scanner.py --help
 ```
+
+## Recording for Module 8 Final Project - Secret Scanner
+Link: https://www.youtube.com/watch?v=1opwaTDqn50
+[![Recording for Module 8 Final Project - Secret Scanner](https://img.youtube.com/vi/1opwaTDqn50/maxresdefault.jpg)](https://www.youtube.com/watch?v=1opwaTDqn50)
