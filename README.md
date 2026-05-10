@@ -35,5 +35,14 @@ python secret-scanner.py --help
 ```
 
 ## Recording for Module 8 Final Project - Secret Scanner
-Link: https://www.youtube.com/watch?v=1opwaTDqn50
-[![Recording for Module 8 Final Project - Secret Scanner](https://img.youtube.com/vi/1opwaTDqn50/maxresdefault.jpg)](https://www.youtube.com/watch?v=1opwaTDqn50)
+In the recording, I use my project to scan the entire OWASP Juice Shop repository. This repository is intended to be the more insecure modern web application, so I thought it would be interesting to use it as my example. The program takes a while to scan the entire project, so I cut out some of the run time.
+
+### Recording Link: https://www.youtube.com/watch?v=fdt0FtZXdug
+[![Recording for Module 8 Final Project - Secret Scanner](https://img.youtube.com/vi/fdt0FtZXdug/maxresdefault.jpg)](https://www.youtube.com/watch?v=fdt0FtZXdug)
+
+
+## OWASP Juice Shop (Insecure Web Application) Links for Reference:
+
+### GitHub: https://github.com/juice-shop/
+
+### Live Demo: https://demo.owasp-juice.shop/
